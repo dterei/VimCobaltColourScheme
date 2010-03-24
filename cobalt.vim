@@ -1,11 +1,22 @@
-" Vim Color Scheme
+" ==============================================================================
+"        File: cobalt.vim
+"      Author: David Terei <davidterei@gmail.com>
+"		    URL: http://www.vim.org/scripts/script.php?script_id=2828
+" Last Change: Wed Mar 24 09:44:07 EST 2010
+"     Version: 1.1
+"     License: Distributed under the Vim charityware license.
+"     Summary: A colour scheme for Vim inspired by TextMates cobalt scheme.
 "
-" Name: Cobalt
-" Maintainer: David Terei<dave.terei@gmail.com>
-" Version: 1.0
-" Last Change: 28 October 2009
+" GetLatestVimScripts: 2828 1 :AutoInstall: cobalt.vim
 "
-" Note: Based on the Cobalt color scheme for TextMate
+" Description:
+" A colour scheme for Vim that attempts to replicate TextMates cobalt colour
+" scheme. This scheme only supports GVim, it should work fine in Vim but no
+" promises are made about this or how it looks.
+"
+" History:
+"   Wed Oct 28, 2009 - 1.0:
+"     * Initial release.
 "
 
 set background=dark
