@@ -37,9 +37,13 @@ hi NonText        guifg=#FFFFFF           guibg=#002F52
 hi CursorLine     guifg=NONE              guibg=#002943
 hi Cursor         guifg=#F8F8F8           guibg=#A7A7A7
 hi CursorIM       guifg=#F8F8F8           guibg=#002947"#5F5A60
-hi Directory      guifg=#8F9D6A           guibg=#141414
+hi Directory      guifg=#2A6A8A           guibg=bg
 hi ErrorMsg       guifg=#CF6A4C           guibg=#420E09
-hi VertSplit      guifg=#AC885B           guibg=#FFFFFF
+"hi VertSplit      guifg=#8693A5           guibg=#8693A5
+hi VertSplit      guifg=bg           guibg=#8693A5
+"hi VertSplit      guifg=#0E2231           guibg=#8693A5
+"hi VertSplit      guifg=#0E2231           guibg=#0E2231
+"hi VertSplit      guifg=bg           guibg=#0E2231
 hi Folded         guifg=#F9EE98           guibg=#494949
 
 hi IncSearch      guifg=#000000           guibg=#CF6A4C
@@ -71,26 +75,26 @@ hi Identifier     guifg=#FFEF92 gui=bold"#FF99E7"#FFEF92
 hi Function       guifg=#FFEF92 gui=bold"#FFAD51
 hi Statement      guifg=#FF9D00 gui=bold 
 hi Conditional    guifg=#FF9D00 gui=bold 
-hi Repeat         guifg=khaki
+"hi Repeat         guifg=black
 hi Label          guifg=#E9C062
 hi Operator       guifg=#FFAC00 gui=bold 
 hi Keyword        guifg=#FF7C9D gui=bold "#E9C062
-hi Exception      guifg=khaki
-hi PreProc        guifg=khaki4
+"hi Exception      guifg=khaki
+"hi PreProc        guifg=khaki4
 hi Include        guifg=#A9C4D5 "Import
-hi Define         guifg=khaki1
-hi Macro          guifg=#9B703F
-hi PreCondit      guifg=#A9C4D5
+hi Define         guifg=#A9C4D5
+hi Macro          guifg=#B9D9EA
+hi PreCondit      guifg=#ABC4D5
 hi Type           guifg=#80FFBB gui=none"Filepath, IO, Maybe
-hi StorageClass   guifg=tan
+"hi StorageClass   guifg=tan
 hi Structure      guifg=#FF9D00 "module
-hi Typedef        guifg=khaki3
+"hi Typedef        guifg=khaki3
 hi Special        guifg=#F2DD00
-hi SpecialChar    guifg=DarkGoldenrod
-hi Tag            guifg=DarkKhaki
-hi Delimiter      guifg=DarkGoldenrod
-hi SpecialComment guifg=cornsilk
-hi Debug          guifg=brown
+"hi SpecialChar    guifg=DarkGoldenrod
+"hi Tag            guifg=DarkKhaki
+hi Delimiter      guifg=#FFFFFF
+"hi SpecialComment guifg=cornsilk
+"hi Debug          guifg=brown
 hi Underlined     guifg=#Cf6A4C
 hi Ignore         guifg=#666666
 hi Error          guifg=#CF6A4C    guibg=#420E09
