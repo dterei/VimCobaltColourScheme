@@ -1,9 +1,10 @@
 " ==============================================================================
 "        File: cobalt.vim
 "      Author: David Terei <davidterei@gmail.com>
+"              Константин Городинский <gor.konstantin@gmail.com>
 "		    URL: http://www.vim.org/scripts/script.php?script_id=2828
-" Last Change: Thu Feb 03 13:44:07 PST 2011
-"     Version: 1.2
+" Last Change: Mon Feb 21 12:09:07 PST 2011
+"     Version: 1.4
 "     License: Distributed under the Vim charityware license.
 "     Summary: A colour scheme for Vim attempting to replicate TextMates
 "              cobalt scheme.
@@ -21,6 +22,8 @@
 "   Thu Feb 03, 2011 - 1.2:
 "     * Tweaks by David Terei
 "     * Tweaks by Константин Городинский <gor.konstantin@gmail.com>
+"   Mon Feb 21, 2011 - 1.4:
+"     * Improvements to the window dividers
 "
 
 set background=dark

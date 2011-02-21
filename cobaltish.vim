@@ -2,8 +2,8 @@
 "        File: cobaltish.vim
 "      Author: David Terei <davidterei@gmail.com>
 "		    URL: http://www.vim.org/scripts/script.php?script_id=3439
-" Last Change: Thu Feb 03 13:44:07 PST 2011
-"     Version: 1.0
+" Last Change: Mon Feb 21 12:09:07 PST 2011
+"     Version: 1.2
 "     License: Distributed under the Vim charityware license.
 "     Summary: A colour scheme for Vim inspired by TextMates cobalt scheme.
 "
@@ -17,6 +17,8 @@
 " History:
 "   Thu Feb 03, 2011 - 1.0:
 "     * Initial release - based of cobalt colour scheme.
+"   Mon Feb 21, 2011 - 1.2:
+"     * Improvements to the window dividers
 "
 
 set background=dark
