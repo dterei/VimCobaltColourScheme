@@ -40,7 +40,8 @@ hi NonText        guifg=#FFFFFF           guibg=#002F52
 hi CursorLine     guifg=NONE              guibg=#002943
 hi Cursor         guifg=#F8F8F8           guibg=#A7A7A7
 hi CursorIM       guifg=#F8F8F8           guibg=#002947"#5F5A60
-hi Directory      guifg=#2A6A8A           guibg=bg
+hi Directory      guifg=#A9C4D5           guibg=bg
+"hi Directory      guifg=#2A6A8A           guibg=bg
 hi ErrorMsg       guifg=#CF6A4C           guibg=#420E09
 "hi VertSplit      guifg=#8693A5           guibg=#8693A5
 "hi VertSplit      guifg=bg           guibg=#8693A5
