@@ -24,6 +24,7 @@
 "     * Tweaks by Константин Городинский <gor.konstantin@gmail.com>
 "   Mon Feb 21, 2011 - 1.4:
 "     * Improvements to the window dividers
+"     * Tweaks to directory colour
 "
 
 set background=dark
