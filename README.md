@@ -1,6 +1,8 @@
-Vim Cobalt Colour Scheme
+#Vim Cobalt Colour Scheme
 
-Author: David Terei
+Author: David Terei(cobaltish.vim and cobalt.vim) and Konstantin Gorodinskiy(cobalt.vim)
+
+![screenshot](https://github.com/gorodok/VimCobaltColourScheme/raw/master/screenshot.png)
 
 This is a colour scheme for vim that attempts to look as similar to the Cobalt
 colour scheme from TextMate as is possible. How well this works depends
